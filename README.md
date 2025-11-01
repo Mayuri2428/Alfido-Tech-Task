@@ -52,4 +52,4 @@ A Java program that reads and displays the contents of a text file.
 ## 🧰 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-development-tasks.git
+   git clone https://github.com/Mayuri2428/java-development-tasks.git
